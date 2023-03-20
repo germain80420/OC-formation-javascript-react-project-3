@@ -439,12 +439,13 @@ footer a {
   width: 10%;
 }
 .menu-restaurant section article:hover > .plat-selected i {
-  font-size: 1.2em;
+  font-size: 1.3em;
   opacity: 1;
   transform: rotate(360deg);
   color: #99E2D0;
-  margin: auto;
-  padding: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   text-align: center;
 }
 .menu-restaurant section #entree1 {

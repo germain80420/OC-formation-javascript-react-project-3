@@ -546,14 +546,14 @@ footer {
             }
 
             &:hover>.plat-selected i {
-                font-size: 1.2em;
+                font-size: 1.3em;
                 opacity: 1;
                 transform: rotate(360deg);
                 color: $tertiary-color;
-                margin: auto;
-                padding: 2px;
-                text-align: center;
-
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                text-align: center;               
             }
 
         }
