@@ -421,7 +421,7 @@ footer a {
   color: #99E2D0;
 }
 .menu-restaurant section article:hover {
-  cursor: url("./images/pointer.png"), pointer;
+  cursor: url("../images/pointer.png"), pointer;
 }
 .menu-restaurant section article:hover > .plat-selected {
   width: 25%;
