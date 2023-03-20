@@ -398,7 +398,7 @@ footer a {
 }
 .menu-restaurant section article .prices p {
   position: absolute;
-  right: 2px;
+  right: 10px;
   bottom: 10px;
 }
 .menu-restaurant section article .plat-selected {
